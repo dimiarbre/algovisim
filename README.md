@@ -4,7 +4,7 @@ Aimed to provide student with a visual way to figure out algorithms.
 
 
 ## Installation
-You should have `pixi` installed, see [their documentation](https://pixi.sh/dev/).
+You should have `pixi` installed, see [their documentation](https://pixi.sh/dev/). Then, running `pixi install` should suffice.
 This project heavily relies 
 
 

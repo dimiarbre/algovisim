@@ -245,7 +245,7 @@ packages:
   name: algovisim
   version: 0.1.0
   path: .
-  sha256: 593abb3a696c83c85c66548a15cf4a43df4e6d836fce66b79a4468fa1a936a01
+  sha256: fab0dbbecd339fa57dc16d50974e601614ce87d0bf5acb8ba91fcea7d9bc867d
   requires_python: '>=3.11'
   editable: true
 - kind: conda
